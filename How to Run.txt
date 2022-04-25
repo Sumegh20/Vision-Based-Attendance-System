@@ -1,0 +1,21 @@
+yStep 1: First create one environment called facedetection
+        command : conda create -n facedetection python==3.6.9
+
+Step 2 : Activate your environment
+        command : conda activate facedetection
+
+Step 3 : Install requirements.txt in the newly created environment
+        command : pip install -r requirements.txt
+
+Step 4 : Then install mxnet and dlib
+        command : conda install -c anaconda mxnet -y
+        command : conda install -c conda-forge dlib -y
+
+Note: Here we have 2 numpy packages one coming from pypi and another comes from conda. so we have to uninstall it
+        command : pip uninstall numpy -y
+        use it 2 times
+
+        then install numpy again
+        command : pip install numpy==1.16.1
+
+Step 5 : run app.py
