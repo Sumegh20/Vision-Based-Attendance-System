@@ -41,7 +41,7 @@ certain thersold. Then we take the attendance and store it in a file
 
 ## Importent Information
 
-* [How to Run](https://github.com/Sumegh20/Vision-Based-Attendance-System/blob/main/How%20to%20Run.txt)
+* [How to set up the project in your system](https://github.com/Sumegh20/Vision-Based-Attendance-System/blob/main/How%20to%20Run.txt)
 * **To run this project you need atleast two person's imges in the datasets folder.**
 ![Capture](https://user-images.githubusercontent.com/81466184/165136668-62417b39-1848-4256-b1ce-878227cd6f75.PNG)
 
