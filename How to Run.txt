@@ -1,4 +1,4 @@
-yStep 1: First create one environment called facedetection
+Step 1: First create one environment called facedetection
         command : conda create -n facedetection python==3.6.9
 
 Step 2 : Activate your environment
